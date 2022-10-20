@@ -3,5 +3,5 @@ flask_restx~=0.5.1
 Werkzeug==2.2.2
 gevent~=22.10.1
 pg8000==1.29.2
-PyJWT==2.5.0
+PyJWT==2.6.0
 cryptography~=38.0.2
