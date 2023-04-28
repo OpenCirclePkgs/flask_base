@@ -1,6 +1,6 @@
 Flask==2.3.1
 flask_restx~=1.1.0
-Werkzeug==2.3.1
+Werkzeug==2.3.2
 gevent~=22.10.2
 pg8000==1.29.4
 PyJWT==2.6.0
