@@ -4,4 +4,4 @@ Werkzeug==2.3.4
 gevent~=22.10.2
 pg8000==1.29.6
 PyJWT==2.7.0
-cryptography~=40.0.2
+cryptography~=41.0.0
